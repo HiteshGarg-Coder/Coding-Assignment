@@ -31,5 +31,10 @@ Enter the dictionary filename you want to use
 Then:
 In first, enter index 
 
+![image](https://user-images.githubusercontent.com/73363580/110934845-9974eb00-8354-11eb-9f70-fe7642b3dece.png)
+
+
 In Second, enter name
+
+
 ![image](https://user-images.githubusercontent.com/73363580/110934564-2b302880-8354-11eb-8c40-4f21406478ce.png)
