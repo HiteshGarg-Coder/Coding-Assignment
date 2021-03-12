@@ -10,4 +10,11 @@ The assignment had two problem statements, and both of the problems were related
 
 ## How to compile & run the assignment?
 Clone the repository and move to project's root directory:
-g++ -o ap.out ab.cpp
+g++ -o ReverseSearch.out ReverseSearch.cpp
+g++ -o FindtheWord.out FindtheWord.cpp
+
+1. For running ReverseSearch
+ use ./ReverseSearch.out
+
+2. For running FindtheWord
+3. use ./FindtheWord.out
