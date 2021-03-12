@@ -17,4 +17,13 @@ g++ -o FindtheWord.out FindtheWord.cpp
  use ./ReverseSearch.out
 
 2. For running FindtheWord
-3. use ./FindtheWord.out
+ use ./FindtheWord.out
+
+
+In both ![image](https://user-images.githubusercontent.com/73363580/110934358-ead0aa80-8353-11eb-91c5-a05bed085885.png)
+Enter the dictionary filename you want to use 
+Then:
+In first, enter index 
+
+In Second, enter name
+![image](https://user-images.githubusercontent.com/73363580/110934564-2b302880-8354-11eb-8c40-4f21406478ce.png)
