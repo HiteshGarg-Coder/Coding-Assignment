@@ -20,8 +20,14 @@ g++ -o FindtheWord.out FindtheWord.cpp
  use ./FindtheWord.out
 
 
-In both ![image](https://user-images.githubusercontent.com/73363580/110934358-ead0aa80-8353-11eb-91c5-a05bed085885.png)
+In both: 
+
+![image](https://user-images.githubusercontent.com/73363580/110934358-ead0aa80-8353-11eb-91c5-a05bed085885.png)
+
+
 Enter the dictionary filename you want to use 
+
+
 Then:
 In first, enter index 
 
