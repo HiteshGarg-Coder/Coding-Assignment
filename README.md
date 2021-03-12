@@ -16,8 +16,11 @@ Clone the repository and move to project's root directory:
 cd Coding-Assignment
 
 ## For FindtheWord
- g++ -o FindtheWord.out FindtheWord.cpp
- use ./FindtheWord.out
+Firstly, Compile FindtheWord
+# g++ -o FindtheWord.out FindtheWord.cpp
+ 
+To run, use
+#### ./FindtheWord.out
 
 Enter the dictionary filename you want to use 
 
@@ -31,8 +34,11 @@ Enter name
 
 
 ## For ReverseSearch
- g++ -o ReverseSearch.out ReverseSearch.cpp
- use ./ReverseSearch.out
+Firstly, Compile ReverseSearch
+# g++ -o ReverseSearch.out ReverseSearch.cpp
+ 
+To run, use
+#### ./ReverseSearch.out
  
  Enter the dictionary filename you want to use 
  
