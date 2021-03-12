@@ -17,7 +17,7 @@ cd Coding-Assignment
 
 ## For FindtheWord
 Firstly, Compile FindtheWord
-# g++ -o FindtheWord.out FindtheWord.cpp
+#### g++ -o FindtheWord.out FindtheWord.cpp
  
 To run, use
 #### ./FindtheWord.out
@@ -35,7 +35,7 @@ Enter name
 
 ## For ReverseSearch
 Firstly, Compile ReverseSearch
-# g++ -o ReverseSearch.out ReverseSearch.cpp
+#### g++ -o ReverseSearch.out ReverseSearch.cpp
  
 To run, use
 #### ./ReverseSearch.out
